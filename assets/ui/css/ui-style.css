@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Myriad Pro Cond';
+    src: url('../fonts/myriadpro-cond.otf');
+    font-weight: normal;
+}
+
+body{
+
+}
+
+.traveltour-header-background-transparent .traveltour-top-bar-background,
+.traveltour-header-background-transparent .traveltour-header-background{
+    opacity: 1 !important;
+}
+
+/*.traveltour-top-bar-background,*/
+/*.traveltour-header-background-transparent .traveltour-header-background*/
+/*{*/
+    /*background-color: #fff !important;*/
+/*}*/
+
+
+/*.traveltour-top-bar-container>.traveltour-top-bar-left{*/
+    /*display: none;*/
+/*}*/
+
+/*div .traveltour-main-menu li{*/
+    /*color: black;*/
+/*}*/
+/*li[class~='menu-item'] a{*/
+    /**/
+/*}*/
+
+.traveltour-navigation .sf-menu > li > a, .traveltour-navigation .sf-vertical > li > a, .traveltour-navigation-font{
+    font-family: "Myriad Pro Cond" !important;
+    font-size: 20px !important;
+}
+/*li[class~='menu-item'] a,*/
+.traveltour-main-menu-search i, .traveltour-main-menu-cart i{
+    color: #000 !important;
+}
+
+.traveltour-logo-inner{
+    max-width: 150px !important;
+
+}
+
+.traveltour-logo{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+/*.traveltour-sticky-navigation.traveltour-fixed-navigation .traveltour-header-background{*/
+    /*background-color: #ffffff !important;*/
+/*}*/
